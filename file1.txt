@@ -1,2 +1,2 @@
 file1 is edited
-line2 
+line2 is edited
